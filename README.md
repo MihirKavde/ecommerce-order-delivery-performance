@@ -141,4 +141,4 @@ Data validation · SQL aggregation, `CASE` logic, CTEs and window functions · D
 ## Author
 
 **Mihir Kavde**: Aspiring Data Analyst
-[LinkedIn](https://www.linkedin.com/in/MihirKavde/) · [GitHub](https://github.com/MihirKavde) · mihirkavde@gmail.com
+[LinkedIn](https://in.linkedin.com/in/mihir-kavde-923561308) · [GitHub](https://github.com/MihirKavde) · mihirkavde@gmail.com
